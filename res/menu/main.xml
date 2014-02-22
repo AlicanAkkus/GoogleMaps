@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/normal_gorunum"
+        android:title="Normal Görünüm"/>
+    <item 
+        android:id="@+id/hibrid_gorunum" 
+        android:title="Hibrid Görünüm"/>
+    <item 
+        android:id="@+id/uydu_gorunum"
+        android:title="Uydu Görünümü"/>
+    <item 
+        android:id="@+id/terrain_gorunum"
+        android:title="Coğrafik Görünüm"/>
+
+</menu>
